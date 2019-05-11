@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ada-next/app-service-hub#readme",
   "dependencies": {
-    "ada-cloud-hub": "0.0.3"
+    "ada-cloud-hub": "0.0.3",
+    "ada-cloud-util": "0.0.2"
   }
 }
