@@ -1,0 +1,22 @@
+{
+  "name": "app-service-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ada-next/app-service-hub.git"
+  },
+  "author": "WangJinliang (hou80houzhu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ada-next/app-service-hub/issues"
+  },
+  "homepage": "https://github.com/ada-next/app-service-hub#readme",
+  "dependencies": {
+    "ada-cloud-hub": "0.0.3"
+  }
+}
